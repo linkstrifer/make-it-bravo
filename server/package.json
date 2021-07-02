@@ -1,0 +1,27 @@
+{
+  "name": "make-it-bravo",
+  "version": "1.0.0",
+  "description": "This is a ReactJS + Express + Node Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkstrifer/make-it-bravo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkstrifer/make-it-bravo/issues"
+  },
+  "homepage": "https://github.com/linkstrifer/make-it-bravo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
